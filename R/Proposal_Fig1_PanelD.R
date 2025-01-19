@@ -1,7 +1,7 @@
 # -------------------------------------------------------------------------
-# SCRIPT FOR FIG. X PANEL X
+# SCRIPT FOR FIG. 1 PANEL D
 # Author: [Yolanda Melero]
-# Project: XX
+# Project: PEPA
 # -------------------------------------------------------------------------
 
 # Load necessary libraries

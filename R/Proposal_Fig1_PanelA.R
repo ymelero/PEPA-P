@@ -1,3 +1,9 @@
+# -------------------------------------------------------------------------
+# SCRIPT FOR FIG 1 PANNEL A
+# Author: [Yolanda Melero]
+# Project: PEPA
+# -------------------------------------------------------------------------
+
 # Load necessary libraries
 library(ggplot2)
 library(sn)

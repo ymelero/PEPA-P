@@ -1,6 +1,6 @@
 <p>  
   This repository hosts the code and resources for my project proposal, <b>PEPA</b>:   
-  <i>Integrating Population Ecology and Phenotypic Adaptation under Environmental Change.</i>   
+  <i>Integrating <b>P</b>opulation <b>E</b>cology and <b>P</b>henotypic <b>A</b>daptation under Environmental Change.</i>   
   Currently, it includes the scripts used to generate the figures included in the proposal.   
   If the project secures funding (fingers crossed!), additional content and developments will follow.  
 </p>  

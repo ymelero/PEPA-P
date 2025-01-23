@@ -13,7 +13,7 @@
   Its true inspiration, however, comes from something far more meaningful:
 </p>
 <p style="text-align: justify;">
-    <img align="left" src="https://drive.google.com/uc?id=1GG9UJHGjn_FGIPBEIFmoKD62J6X6zwgb" alt="First Spanish Constitution" width="110" />
+    <img align="left" src="https://drive.google.com/uc?id=1GG9UJHGjn_FGIPBEIFmoKD62J6X6zwgb" alt="First Spanish Constitution" width="120" />
 </p>
 
 <p style="text-align: justify;">
@@ -21,9 +21,9 @@
   laying the foundation for constitutionalism. It introduced progressive principles for its time, such as national sovereignty, 
   the separation of powers, and equality before the law. The Constitution also guaranteed fundamental rights like freedom of the press 
   and abolished feudal privileges, serving as a symbol of progress and inspiring.
-</p>
-
-<p style="text-align: justify;">
+  </p>
   Still, while our contribution may not shape societies like a Constitution, we hope it serves as a small but meaningful step 
   toward preserving the ecological richness that sustains us all. Let's hope we get funding!
+  </p>
 </p>
+

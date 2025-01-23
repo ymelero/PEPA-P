@@ -23,7 +23,7 @@
   and abolished feudal privileges, serving as a symbol of progress and inspiring.
   </p>
   Still, while our contribution may not shape societies like a Constitution, we hope it serves as a small but meaningful step 
-  toward preserving the ecological richness that is us all. Let's hope we get funding!
+  toward preserving the ecological richness that is us all. 
   </p>
 </p>
 

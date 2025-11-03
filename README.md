@@ -19,7 +19,7 @@
 <p style="text-align: justify;">
   The first Spanish Constitution from 1812. Known as <i>La Pepa</i>, it was a groundbreaking milestone in Spanish history, 
   laying the foundation for constitutionalism. It introduced progressive principles for its time, such as national sovereignty, 
-  the separation of powers, and equality before the law. The Constitution also guaranteed fundamental rights like freedom of the press 
+  the separation of powers, and equality in the eyes of the law. The Constitution also guaranteed fundamental rights like freedom of the press 
   and abolished feudal privileges, serving as a symbol of progress and inspiring.
   </p>
   Still, while our contribution may not shape societies like a Constitution, we hope it serves as a small but meaningful step 

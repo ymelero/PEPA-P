@@ -1,8 +1,8 @@
 <p>  
-  This repository hosts the code and resources for my project (proposal and the project itself) <b>PEPA</b>:   
+  This repository hosts the code and resources for my project <b>PEPA</b>:   
   <i>Integrating <b>P</b>opulation <b>E</b>cology and <b>P</b>henotypic <b>A</b>daptation under Environmental Change.</i>   
   Currently, it includes the scripts used to generate the figures included in the proposal.   
-  The project will start in Febrery 2026, additional content and developments will follow. It has been funded by the Spanish National Research Agency and 
+  The project will start in February 2026, additional content and developments will follow. It has been funded by the Spanish National Research Agency PID2024-156160NB-100
 </p>  
 
 <p style="text-align: justify;">
